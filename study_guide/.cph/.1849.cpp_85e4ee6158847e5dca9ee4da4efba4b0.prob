@@ -1,0 +1,1 @@
+{"name":"Local: 1849","url":"c:\\Dev\\Github\\study-archive\\study_guide\\1849.cpp","tests":[{"id":1789559004252,"input":"11 15","output":"19"},{"id":1789559006971,"input":"4 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Dev\\Github\\study-archive\\study_guide\\1849.cpp","group":"local","local":true}

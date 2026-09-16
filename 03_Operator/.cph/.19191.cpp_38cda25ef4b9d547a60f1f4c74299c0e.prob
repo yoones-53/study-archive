@@ -1,0 +1,1 @@
+{"name":"Local: 19191","url":"c:\\Dev\\Github\\study-archive\\03_Operator\\19191.cpp","tests":[{"id":1789539779315,"input":"10 8 10","output":"a > b : 1\na <= c : 1\na != b : 1\nb == c : 0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Dev\\Github\\study-archive\\03_Operator\\19191.cpp","group":"local","local":true}

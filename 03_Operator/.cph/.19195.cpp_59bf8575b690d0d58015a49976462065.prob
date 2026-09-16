@@ -1,0 +1,1 @@
+{"name":"Local: 19195","url":"c:\\Dev\\Github\\study-archive\\03_Operator\\19195.cpp","tests":[{"id":1789538692560,"input":"2 3 2","output":"(a != b) && (b != c) : 1\n(a == c) || (b == c) : 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Dev\\Github\\study-archive\\03_Operator\\19195.cpp","group":"local","local":true}
