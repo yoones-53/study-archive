@@ -1,0 +1,1 @@
+{"name":"Local: 1213","url":"c:\\Dev\\Github\\study-archive\\study_guide\\1213.cpp","tests":[{"id":1789692830978,"input":"3 \n20 24 \n40 21 \n10 12","output":"360"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Dev\\Github\\study-archive\\study_guide\\1213.cpp","group":"local","local":true}

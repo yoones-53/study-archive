@@ -3,12 +3,11 @@
 using namespace std;
 
 int main() {
-    int a, b;
-    cin >> a >> b;
-    cout << a << " + " << b << " = " << a+b << "\n";
-    cout << a << " - " << b << " = " << a-b << "\n";
-    cout << a << " * " << b << " = " << a*b << "\n";
-    cout << a << " / " << b << " = " << a/b << "\n";
-    cout << a << " % " << b << " = " << a%b;
-    return 0;
+    int m_height, m_weight;
+    int k_height, k_weight;
+
+    cin >> m_height >> m_weight;
+    cin >> k_height >> k_weight;
+    cout << ((m_height > k_height) && (m_weight > k_weight));
+    return 0; 
 }

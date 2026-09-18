@@ -4,7 +4,8 @@ using namespace std;
 
 int main() {
     int a, b;
-    int [];
-    int [];
+    cin >> a >> b;
+    int ans = (a > b) ? a: b;
+    cout << ans;
     return 0;
 }
