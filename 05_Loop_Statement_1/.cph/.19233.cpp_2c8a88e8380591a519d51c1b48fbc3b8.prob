@@ -1,0 +1,1 @@
+{"name":"Local: 19233","url":"c:\\Dev\\Github\\study-archive\\05_Loop_Statement\\19233.cpp","tests":[{"id":1790235110083,"input":"50 8 200 97 -3 86 31 0","output":"MAX = 97\nMIN = 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Dev\\Github\\study-archive\\05_Loop_Statement\\19233.cpp","group":"local","local":true}

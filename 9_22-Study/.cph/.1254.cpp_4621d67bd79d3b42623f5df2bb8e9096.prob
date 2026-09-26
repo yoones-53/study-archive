@@ -1,0 +1,1 @@
+{"name":"Local: 1254","url":"c:\\Dev\\Github\\study-archive\\9_22-Study\\1254.cpp","tests":[{"id":1790083305860,"input":"010100\n101011\n000101\n110010\n011101\n100010\n3\nABCDE\nFCDAB\nABADE","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Dev\\Github\\study-archive\\9_22-Study\\1254.cpp","group":"local","local":true}

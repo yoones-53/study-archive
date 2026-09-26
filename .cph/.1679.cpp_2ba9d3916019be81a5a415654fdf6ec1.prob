@@ -1,0 +1,1 @@
+{"name":"Local: 1679","url":"c:\\Dev\\Github\\study-archive\\1679.cpp","tests":[{"id":1790128235663,"input":"60\n100","output":"245\n64"},{"id":1790171769290,"input":"9800\n10000\n","output":"19801\n9801\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Dev\\Github\\study-archive\\1679.cpp","group":"local","local":true}
